@@ -1,3 +1,3 @@
-# ASPLab
+# AMLab
 
-This includes the course projects of Audio Signal Processing Lab.
+This includes the course projects of Audio and Music Processing Lab.
